@@ -1,0 +1,11 @@
+a.external:link{
+    color: black;
+}
+
+a.extternal:visited{
+    color: blue;
+}
+
+a.external:hover{
+    color: brown;
+}
